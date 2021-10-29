@@ -1,2 +1,0 @@
-# elecciones
-Elecciones esudiantiles
